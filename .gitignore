@@ -1,1 +1,14 @@
+.idea/
+app/db.sqlite3
+__pycache__/
+*.py[cod]
+.sublime*
+.vscode/tags
+venv
+tmp
+static/
+media/
+*.log
+logs/
+*.sqlite
 .env
